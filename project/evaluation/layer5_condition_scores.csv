@@ -1,0 +1,1001 @@
+video_id,model_name,technique_name,rag_enabled,pred_count,true_positives,false_positives,gt_count,json_valid,pred_total_kcal,gt_total_kcal
+1,Gemma-SEA-LION v4 4B,chain-of-thought,false,15,12,3,16,true,,544.4000000953674
+1,Gemma-SEA-LION v4 4B,few-shot,false,15,13,2,16,true,,544.4000000953674
+1,Gemma-SEA-LION v4 4B,structured-output,false,15,11,4,16,true,,544.4000000953674
+1,Gemma-SEA-LION v4 4B,zero-shot,false,0,0,0,16,true,,544.4000000953674
+1,Llama 3.2 3B Instruct,chain-of-thought,false,1,0,1,16,true,420.0,544.4000000953674
+1,Llama 3.2 3B Instruct,few-shot,false,14,6,8,16,true,341.0,544.4000000953674
+1,Llama 3.2 3B Instruct,structured-output,false,15,11,4,16,true,720.8,544.4000000953674
+1,Llama 3.2 3B Instruct,zero-shot,false,12,0,12,16,true,2348.6,544.4000000953674
+1,MedGemma 4B,chain-of-thought,false,2,2,0,16,true,,544.4000000953674
+1,MedGemma 4B,few-shot,false,15,12,3,16,true,,544.4000000953674
+1,MedGemma 4B,structured-output,false,16,13,3,16,true,,544.4000000953674
+1,MedGemma 4B,zero-shot,false,17,14,3,16,true,,544.4000000953674
+1,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,16,true,0.0,544.4000000953674
+1,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,16,true,,544.4000000953674
+1,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,16,true,0.0,544.4000000953674
+1,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,16,true,,544.4000000953674
+1,Qwen 2.5 3B Instruct,chain-of-thought,false,12,9,3,16,true,285.3,544.4000000953674
+1,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,16,true,,544.4000000953674
+1,Qwen 2.5 3B Instruct,structured-output,false,12,8,4,16,true,319.5,544.4000000953674
+1,Qwen 2.5 3B Instruct,zero-shot,false,0,0,0,16,true,,544.4000000953674
+2,Gemma-SEA-LION v4 4B,chain-of-thought,false,7,7,0,12,true,4835.8,8082.799968719482
+2,Gemma-SEA-LION v4 4B,few-shot,false,7,7,0,12,true,3480.0,8082.799968719482
+2,Gemma-SEA-LION v4 4B,structured-output,false,7,7,0,12,true,3150.0,8082.799968719482
+2,Gemma-SEA-LION v4 4B,zero-shot,false,7,7,0,12,true,2835.0,8082.799968719482
+2,Llama 3.2 3B Instruct,chain-of-thought,false,7,0,7,12,true,720.0,8082.799968719482
+2,Llama 3.2 3B Instruct,few-shot,false,7,6,1,12,true,384.0,8082.799968719482
+2,Llama 3.2 3B Instruct,structured-output,false,7,6,1,12,true,542.8,8082.799968719482
+2,Llama 3.2 3B Instruct,zero-shot,false,7,5,2,12,true,0.0,8082.799968719482
+2,MedGemma 4B,chain-of-thought,false,7,6,1,12,true,1456.0,8082.799968719482
+2,MedGemma 4B,few-shot,false,7,6,1,12,true,5763.0,8082.799968719482
+2,MedGemma 4B,structured-output,false,7,6,1,12,true,350.0,8082.799968719482
+2,MedGemma 4B,zero-shot,false,7,6,1,12,true,3500.0,8082.799968719482
+2,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,12,true,0.0,8082.799968719482
+2,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,12,true,,8082.799968719482
+2,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,12,true,0.0,8082.799968719482
+2,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,12,true,0.0,8082.799968719482
+2,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,12,true,0.0,8082.799968719482
+2,Qwen 2.5 3B Instruct,few-shot,false,7,5,2,12,true,245.0,8082.799968719482
+2,Qwen 2.5 3B Instruct,structured-output,false,0,0,0,12,true,,8082.799968719482
+2,Qwen 2.5 3B Instruct,zero-shot,false,0,0,0,12,true,0.0,8082.799968719482
+3,Gemma-SEA-LION v4 4B,chain-of-thought,false,0,0,0,12,true,,450.699999332428
+3,Gemma-SEA-LION v4 4B,few-shot,false,12,10,2,12,true,639.0,450.699999332428
+3,Gemma-SEA-LION v4 4B,structured-output,false,12,10,2,12,true,265.0,450.699999332428
+3,Gemma-SEA-LION v4 4B,zero-shot,false,12,10,2,12,true,368.0,450.699999332428
+3,Llama 3.2 3B Instruct,chain-of-thought,false,7,5,2,12,true,,450.699999332428
+3,Llama 3.2 3B Instruct,few-shot,false,11,8,3,12,true,341.0,450.699999332428
+3,Llama 3.2 3B Instruct,structured-output,false,12,7,5,12,true,1508.2,450.699999332428
+3,Llama 3.2 3B Instruct,zero-shot,false,9,7,2,12,true,420.0,450.699999332428
+3,MedGemma 4B,chain-of-thought,false,12,10,2,12,true,478.0,450.699999332428
+3,MedGemma 4B,few-shot,false,11,9,2,12,true,1450.0,450.699999332428
+3,MedGemma 4B,structured-output,false,11,9,2,12,true,1260.0,450.699999332428
+3,MedGemma 4B,zero-shot,false,12,10,2,12,true,1460.0,450.699999332428
+3,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,12,true,0.0,450.699999332428
+3,Phi-4-mini 3.8B Instruct,few-shot,false,11,5,6,12,true,0.0,450.699999332428
+3,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,12,true,0.0,450.699999332428
+3,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,12,true,0.0,450.699999332428
+3,Qwen 2.5 3B Instruct,chain-of-thought,false,11,7,4,12,true,249.5,450.699999332428
+3,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,12,true,,450.699999332428
+3,Qwen 2.5 3B Instruct,structured-output,false,10,1,9,12,true,231.9,450.699999332428
+3,Qwen 2.5 3B Instruct,zero-shot,false,10,7,3,12,true,125.3,450.699999332428
+4,Gemma-SEA-LION v4 4B,chain-of-thought,false,15,9,6,20,true,,2557.1000022888184
+4,Gemma-SEA-LION v4 4B,few-shot,false,15,9,6,20,true,,2557.1000022888184
+4,Gemma-SEA-LION v4 4B,structured-output,false,16,9,7,20,true,,2557.1000022888184
+4,Gemma-SEA-LION v4 4B,zero-shot,false,15,9,6,20,true,,2557.1000022888184
+4,Llama 3.2 3B Instruct,chain-of-thought,false,2,1,1,20,true,,2557.1000022888184
+4,Llama 3.2 3B Instruct,few-shot,false,16,8,8,20,true,542.0,2557.1000022888184
+4,Llama 3.2 3B Instruct,structured-output,false,10,7,3,20,true,1042.8,2557.1000022888184
+4,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,20,true,,2557.1000022888184
+4,MedGemma 4B,chain-of-thought,false,17,7,10,20,true,,2557.1000022888184
+4,MedGemma 4B,few-shot,false,15,10,5,20,true,,2557.1000022888184
+4,MedGemma 4B,structured-output,false,16,7,9,20,true,,2557.1000022888184
+4,MedGemma 4B,zero-shot,false,16,7,9,20,true,,2557.1000022888184
+4,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,20,true,0.0,2557.1000022888184
+4,Phi-4-mini 3.8B Instruct,few-shot,false,1,0,1,20,true,0.0,2557.1000022888184
+4,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,20,true,0.0,2557.1000022888184
+4,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,20,true,0.0,2557.1000022888184
+4,Qwen 2.5 3B Instruct,chain-of-thought,false,19,3,16,20,true,,2557.1000022888184
+4,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,20,true,,2557.1000022888184
+4,Qwen 2.5 3B Instruct,structured-output,false,6,1,5,20,true,137.5,2557.1000022888184
+4,Qwen 2.5 3B Instruct,zero-shot,false,11,1,10,20,true,468.9,2557.1000022888184
+5,Gemma-SEA-LION v4 4B,chain-of-thought,false,12,9,3,14,true,583.0,1896.2999992370605
+5,Gemma-SEA-LION v4 4B,few-shot,false,13,11,2,14,true,638.0,1896.2999992370605
+5,Gemma-SEA-LION v4 4B,structured-output,false,0,0,0,14,true,,1896.2999992370605
+5,Gemma-SEA-LION v4 4B,zero-shot,false,13,12,1,14,true,789.0,1896.2999992370605
+5,Llama 3.2 3B Instruct,chain-of-thought,false,3,2,1,14,true,,1896.2999992370605
+5,Llama 3.2 3B Instruct,few-shot,false,9,8,1,14,true,542.0,1896.2999992370605
+5,Llama 3.2 3B Instruct,structured-output,false,0,0,0,14,true,,1896.2999992370605
+5,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,14,true,,1896.2999992370605
+5,MedGemma 4B,chain-of-thought,false,13,11,2,14,true,450.0,1896.2999992370605
+5,MedGemma 4B,few-shot,false,13,11,2,14,true,450.0,1896.2999992370605
+5,MedGemma 4B,structured-output,false,13,11,2,14,true,3500.0,1896.2999992370605
+5,MedGemma 4B,zero-shot,false,13,11,2,14,true,450.0,1896.2999992370605
+5,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,14,true,0.0,1896.2999992370605
+5,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,14,true,,1896.2999992370605
+5,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,14,true,0.0,1896.2999992370605
+5,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,14,true,0.0,1896.2999992370605
+5,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,14,true,0.0,1896.2999992370605
+5,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,14,true,,1896.2999992370605
+5,Qwen 2.5 3B Instruct,structured-output,false,9,8,1,14,true,819.5,1896.2999992370605
+5,Qwen 2.5 3B Instruct,zero-shot,false,0,0,0,14,true,,1896.2999992370605
+6,Gemma-SEA-LION v4 4B,chain-of-thought,false,8,8,0,16,true,648.8,1327.400007724762
+6,Gemma-SEA-LION v4 4B,few-shot,false,10,8,2,16,true,638.0,1327.400007724762
+6,Gemma-SEA-LION v4 4B,structured-output,false,11,10,1,16,true,947.0,1327.400007724762
+6,Gemma-SEA-LION v4 4B,zero-shot,false,8,8,0,16,true,438.0,1327.400007724762
+6,Llama 3.2 3B Instruct,chain-of-thought,false,7,0,7,16,true,,1327.400007724762
+6,Llama 3.2 3B Instruct,few-shot,false,6,4,2,16,true,234.0,1327.400007724762
+6,Llama 3.2 3B Instruct,structured-output,false,6,5,1,16,true,234.1,1327.400007724762
+6,Llama 3.2 3B Instruct,zero-shot,false,7,4,3,16,true,150.8,1327.400007724762
+6,MedGemma 4B,chain-of-thought,false,11,8,3,16,true,350.0,1327.400007724762
+6,MedGemma 4B,few-shot,false,11,8,3,16,true,450.0,1327.400007724762
+6,MedGemma 4B,structured-output,false,16,14,2,16,true,,1327.400007724762
+6,MedGemma 4B,zero-shot,false,11,8,3,16,true,750.0,1327.400007724762
+6,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,16,true,0.0,1327.400007724762
+6,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,16,true,,1327.400007724762
+6,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,16,true,0.0,1327.400007724762
+6,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,16,true,,1327.400007724762
+6,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,16,true,0.0,1327.400007724762
+6,Qwen 2.5 3B Instruct,few-shot,false,7,7,0,16,true,324.0,1327.400007724762
+6,Qwen 2.5 3B Instruct,structured-output,false,6,6,0,16,true,341.6,1327.400007724762
+6,Qwen 2.5 3B Instruct,zero-shot,false,4,2,2,16,true,132.5,1327.400007724762
+7,Gemma-SEA-LION v4 4B,chain-of-thought,false,4,1,3,8,true,1755.0,1093.2000122070312
+7,Gemma-SEA-LION v4 4B,few-shot,false,4,1,3,8,true,1724.0,1093.2000122070312
+7,Gemma-SEA-LION v4 4B,structured-output,false,4,1,3,8,true,1170.0,1093.2000122070312
+7,Gemma-SEA-LION v4 4B,zero-shot,false,4,1,3,8,true,1800.0,1093.2000122070312
+7,Llama 3.2 3B Instruct,chain-of-thought,false,3,1,2,8,true,260.0,1093.2000122070312
+7,Llama 3.2 3B Instruct,few-shot,false,3,1,2,8,true,1111.0,1093.2000122070312
+7,Llama 3.2 3B Instruct,structured-output,false,3,1,2,8,true,490.0,1093.2000122070312
+7,Llama 3.2 3B Instruct,zero-shot,false,3,0,3,8,true,290.0,1093.2000122070312
+7,MedGemma 4B,chain-of-thought,false,4,1,3,8,true,650.0,1093.2000122070312
+7,MedGemma 4B,few-shot,false,4,1,3,8,true,1450.0,1093.2000122070312
+7,MedGemma 4B,structured-output,false,4,1,3,8,true,700.0,1093.2000122070312
+7,MedGemma 4B,zero-shot,false,4,1,3,8,true,1350.0,1093.2000122070312
+7,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,8,true,0.0,1093.2000122070312
+7,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,8,true,,1093.2000122070312
+7,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,8,true,0.0,1093.2000122070312
+7,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,8,true,0.0,1093.2000122070312
+7,Qwen 2.5 3B Instruct,chain-of-thought,false,4,1,3,8,true,792.5,1093.2000122070312
+7,Qwen 2.5 3B Instruct,few-shot,false,4,0,4,8,true,245.0,1093.2000122070312
+7,Qwen 2.5 3B Instruct,structured-output,false,4,0,4,8,true,238.7,1093.2000122070312
+7,Qwen 2.5 3B Instruct,zero-shot,false,3,0,3,8,true,0.0,1093.2000122070312
+8,Gemma-SEA-LION v4 4B,chain-of-thought,false,15,14,1,38,true,,1783.7000031471252
+8,Gemma-SEA-LION v4 4B,few-shot,false,0,0,0,38,true,,1783.7000031471252
+8,Gemma-SEA-LION v4 4B,structured-output,false,16,15,1,38,true,,1783.7000031471252
+8,Gemma-SEA-LION v4 4B,zero-shot,false,15,14,1,38,true,,1783.7000031471252
+8,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,38,true,,1783.7000031471252
+8,Llama 3.2 3B Instruct,few-shot,false,18,13,5,38,true,,1783.7000031471252
+8,Llama 3.2 3B Instruct,structured-output,false,16,13,3,38,true,1440.8,1783.7000031471252
+8,Llama 3.2 3B Instruct,zero-shot,false,19,0,19,38,true,,1783.7000031471252
+8,MedGemma 4B,chain-of-thought,false,16,15,1,38,true,,1783.7000031471252
+8,MedGemma 4B,few-shot,false,15,13,2,38,true,,1783.7000031471252
+8,MedGemma 4B,structured-output,false,16,15,1,38,true,,1783.7000031471252
+8,MedGemma 4B,zero-shot,false,17,16,1,38,true,,1783.7000031471252
+8,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,38,true,0.0,1783.7000031471252
+8,Phi-4-mini 3.8B Instruct,few-shot,false,7,4,3,38,true,1911.4,1783.7000031471252
+8,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,38,true,0.0,1783.7000031471252
+8,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,38,true,0.0,1783.7000031471252
+8,Qwen 2.5 3B Instruct,chain-of-thought,false,10,0,10,38,true,1295.8,1783.7000031471252
+8,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,38,true,,1783.7000031471252
+8,Qwen 2.5 3B Instruct,structured-output,false,21,16,5,38,true,,1783.7000031471252
+8,Qwen 2.5 3B Instruct,zero-shot,false,12,5,7,38,true,1389.7,1783.7000031471252
+9,Gemma-SEA-LION v4 4B,chain-of-thought,false,5,5,0,8,true,653.0,1290.5000038146973
+9,Gemma-SEA-LION v4 4B,few-shot,false,5,5,0,8,true,680.0,1290.5000038146973
+9,Gemma-SEA-LION v4 4B,structured-output,false,5,5,0,8,true,896.0,1290.5000038146973
+9,Gemma-SEA-LION v4 4B,zero-shot,false,5,5,0,8,true,896.0,1290.5000038146973
+9,Llama 3.2 3B Instruct,chain-of-thought,false,5,5,0,8,true,600.0,1290.5000038146973
+9,Llama 3.2 3B Instruct,few-shot,false,6,5,1,8,true,432.0,1290.5000038146973
+9,Llama 3.2 3B Instruct,structured-output,false,4,4,0,8,true,261.8,1290.5000038146973
+9,Llama 3.2 3B Instruct,zero-shot,false,5,5,0,8,true,234.8,1290.5000038146973
+9,MedGemma 4B,chain-of-thought,false,4,4,0,8,true,849.0,1290.5000038146973
+9,MedGemma 4B,few-shot,false,5,5,0,8,true,1390.0,1290.5000038146973
+9,MedGemma 4B,structured-output,false,4,4,0,8,true,720.0,1290.5000038146973
+9,MedGemma 4B,zero-shot,false,4,4,0,8,true,540.0,1290.5000038146973
+9,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,8,true,0.0,1290.5000038146973
+9,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,8,true,,1290.5000038146973
+9,Phi-4-mini 3.8B Instruct,structured-output,false,5,4,1,8,true,0.0,1290.5000038146973
+9,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,8,true,,1290.5000038146973
+9,Qwen 2.5 3B Instruct,chain-of-thought,false,4,0,4,8,true,234.5,1290.5000038146973
+9,Qwen 2.5 3B Instruct,few-shot,false,4,4,0,8,true,182.0,1290.5000038146973
+9,Qwen 2.5 3B Instruct,structured-output,false,5,0,5,8,true,239.4,1290.5000038146973
+9,Qwen 2.5 3B Instruct,zero-shot,false,4,0,4,8,true,238.5,1290.5000038146973
+10,Gemma-SEA-LION v4 4B,chain-of-thought,false,12,11,1,15,true,2480.0,657.5000112056732
+10,Gemma-SEA-LION v4 4B,few-shot,false,11,11,0,15,true,638.0,657.5000112056732
+10,Gemma-SEA-LION v4 4B,structured-output,false,10,10,0,15,true,745.0,657.5000112056732
+10,Gemma-SEA-LION v4 4B,zero-shot,false,10,10,0,15,true,687.0,657.5000112056732
+10,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,15,true,,657.5000112056732
+10,Llama 3.2 3B Instruct,few-shot,false,0,0,0,15,true,,657.5000112056732
+10,Llama 3.2 3B Instruct,structured-output,false,0,0,0,15,true,,657.5000112056732
+10,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,15,true,,657.5000112056732
+10,MedGemma 4B,chain-of-thought,false,12,10,2,15,true,,657.5000112056732
+10,MedGemma 4B,few-shot,false,11,11,0,15,true,650.0,657.5000112056732
+10,MedGemma 4B,structured-output,false,12,11,1,15,true,540.0,657.5000112056732
+10,MedGemma 4B,zero-shot,false,12,11,1,15,true,5200.0,657.5000112056732
+10,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,657.5000112056732
+10,Phi-4-mini 3.8B Instruct,few-shot,false,9,9,0,15,true,461.5,657.5000112056732
+10,Phi-4-mini 3.8B Instruct,structured-output,false,0,0,0,15,true,,657.5000112056732
+10,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,15,true,,657.5000112056732
+10,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,657.5000112056732
+10,Qwen 2.5 3B Instruct,few-shot,false,9,7,2,15,true,547.0,657.5000112056732
+10,Qwen 2.5 3B Instruct,structured-output,false,4,0,4,15,true,125.3,657.5000112056732
+10,Qwen 2.5 3B Instruct,zero-shot,false,4,0,4,15,true,34.0,657.5000112056732
+11,Gemma-SEA-LION v4 4B,chain-of-thought,false,7,5,2,8,true,475.0,1017.3000030517578
+11,Gemma-SEA-LION v4 4B,few-shot,false,8,6,2,8,true,934.0,1017.3000030517578
+11,Gemma-SEA-LION v4 4B,structured-output,false,7,6,1,8,true,540.0,1017.3000030517578
+11,Gemma-SEA-LION v4 4B,zero-shot,false,7,5,2,8,true,548.0,1017.3000030517578
+11,Llama 3.2 3B Instruct,chain-of-thought,false,6,3,3,8,true,5100.0,1017.3000030517578
+11,Llama 3.2 3B Instruct,few-shot,false,6,6,0,8,true,234.0,1017.3000030517578
+11,Llama 3.2 3B Instruct,structured-output,false,6,6,0,8,true,720.0,1017.3000030517578
+11,Llama 3.2 3B Instruct,zero-shot,false,6,6,0,8,true,1061.7,1017.3000030517578
+11,MedGemma 4B,chain-of-thought,false,8,6,2,8,true,1470.0,1017.3000030517578
+11,MedGemma 4B,few-shot,false,7,6,1,8,true,1650.0,1017.3000030517578
+11,MedGemma 4B,structured-output,false,8,7,1,8,true,760.0,1017.3000030517578
+11,MedGemma 4B,zero-shot,false,8,6,2,8,true,860.0,1017.3000030517578
+11,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,8,true,0.0,1017.3000030517578
+11,Phi-4-mini 3.8B Instruct,few-shot,false,6,6,0,8,true,535.0,1017.3000030517578
+11,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,8,true,0.0,1017.3000030517578
+11,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,8,true,0.0,1017.3000030517578
+11,Qwen 2.5 3B Instruct,chain-of-thought,false,0,0,0,8,true,,1017.3000030517578
+11,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,8,true,,1017.3000030517578
+11,Qwen 2.5 3B Instruct,structured-output,false,7,7,0,8,true,348.2,1017.3000030517578
+11,Qwen 2.5 3B Instruct,zero-shot,false,0,0,0,8,true,,1017.3000030517578
+12,Gemma-SEA-LION v4 4B,chain-of-thought,false,9,2,7,17,true,5796.1,1899.2000045776367
+12,Gemma-SEA-LION v4 4B,few-shot,false,9,2,7,17,true,4970.0,1899.2000045776367
+12,Gemma-SEA-LION v4 4B,structured-output,false,0,0,0,17,true,,1899.2000045776367
+12,Gemma-SEA-LION v4 4B,zero-shot,false,0,0,0,17,true,,1899.2000045776367
+12,Llama 3.2 3B Instruct,chain-of-thought,false,6,1,5,17,true,,1899.2000045776367
+12,Llama 3.2 3B Instruct,few-shot,false,10,2,8,17,true,341.0,1899.2000045776367
+12,Llama 3.2 3B Instruct,structured-output,false,11,2,9,17,true,3128.0,1899.2000045776367
+12,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,17,true,,1899.2000045776367
+12,MedGemma 4B,chain-of-thought,false,11,2,9,17,true,3500.0,1899.2000045776367
+12,MedGemma 4B,few-shot,false,9,2,7,17,true,1765.0,1899.2000045776367
+12,MedGemma 4B,structured-output,false,9,2,7,17,true,3500.0,1899.2000045776367
+12,MedGemma 4B,zero-shot,false,11,2,9,17,true,2560.0,1899.2000045776367
+12,Phi-4-mini 3.8B Instruct,chain-of-thought,false,10,2,8,17,true,2254.9,1899.2000045776367
+12,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,17,true,,1899.2000045776367
+12,Phi-4-mini 3.8B Instruct,structured-output,false,0,0,0,17,true,,1899.2000045776367
+12,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,17,true,,1899.2000045776367
+12,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,17,true,0.0,1899.2000045776367
+12,Qwen 2.5 3B Instruct,few-shot,false,8,1,7,17,true,549.0,1899.2000045776367
+12,Qwen 2.5 3B Instruct,structured-output,false,8,0,8,17,true,185.5,1899.2000045776367
+12,Qwen 2.5 3B Instruct,zero-shot,false,0,0,0,17,true,,1899.2000045776367
+13,Gemma-SEA-LION v4 4B,chain-of-thought,false,14,1,13,13,true,780.0,4149.800009727478
+13,Gemma-SEA-LION v4 4B,few-shot,false,15,0,15,13,true,,4149.800009727478
+13,Gemma-SEA-LION v4 4B,structured-output,false,15,0,15,13,true,485.0,4149.800009727478
+13,Gemma-SEA-LION v4 4B,zero-shot,false,14,1,13,13,true,457.0,4149.800009727478
+13,Llama 3.2 3B Instruct,chain-of-thought,false,7,0,7,13,true,,4149.800009727478
+13,Llama 3.2 3B Instruct,few-shot,false,15,0,15,13,true,542.0,4149.800009727478
+13,Llama 3.2 3B Instruct,structured-output,false,0,0,0,13,true,,4149.800009727478
+13,Llama 3.2 3B Instruct,zero-shot,false,14,1,13,13,true,1242.8,4149.800009727478
+13,MedGemma 4B,chain-of-thought,false,16,1,15,13,true,,4149.800009727478
+13,MedGemma 4B,few-shot,false,15,1,14,13,true,,4149.800009727478
+13,MedGemma 4B,structured-output,false,16,1,15,13,true,,4149.800009727478
+13,MedGemma 4B,zero-shot,false,17,1,16,13,true,,4149.800009727478
+13,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,13,true,0.0,4149.800009727478
+13,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,13,true,,4149.800009727478
+13,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,13,true,0.0,4149.800009727478
+13,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,13,true,0.0,4149.800009727478
+13,Qwen 2.5 3B Instruct,chain-of-thought,false,13,0,13,13,true,256.9,4149.800009727478
+13,Qwen 2.5 3B Instruct,few-shot,false,12,0,12,13,true,371.0,4149.800009727478
+13,Qwen 2.5 3B Instruct,structured-output,false,0,0,0,13,true,,4149.800009727478
+13,Qwen 2.5 3B Instruct,zero-shot,false,0,0,0,13,true,,4149.800009727478
+14,Gemma-SEA-LION v4 4B,chain-of-thought,false,6,1,5,26,true,4875.0,1024.6000020503998
+14,Gemma-SEA-LION v4 4B,few-shot,false,6,1,5,26,true,5813.0,1024.6000020503998
+14,Gemma-SEA-LION v4 4B,structured-output,false,6,1,5,26,true,6183.0,1024.6000020503998
+14,Gemma-SEA-LION v4 4B,zero-shot,false,6,1,5,26,true,3917.0,1024.6000020503998
+14,Llama 3.2 3B Instruct,chain-of-thought,false,5,0,5,26,true,182900.0,1024.6000020503998
+14,Llama 3.2 3B Instruct,few-shot,false,6,1,5,26,true,542.0,1024.6000020503998
+14,Llama 3.2 3B Instruct,structured-output,false,0,0,0,26,true,,1024.6000020503998
+14,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,26,true,,1024.6000020503998
+14,MedGemma 4B,chain-of-thought,false,6,0,6,26,true,2475.0,1024.6000020503998
+14,MedGemma 4B,few-shot,false,7,1,6,26,true,547.0,1024.6000020503998
+14,MedGemma 4B,structured-output,false,6,1,5,26,true,4500.0,1024.6000020503998
+14,MedGemma 4B,zero-shot,false,7,1,6,26,true,540.0,1024.6000020503998
+14,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,26,true,0.0,1024.6000020503998
+14,Phi-4-mini 3.8B Instruct,few-shot,false,4,0,4,26,true,2749.5,1024.6000020503998
+14,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,26,true,0.0,1024.6000020503998
+14,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,26,true,0.0,1024.6000020503998
+14,Qwen 2.5 3B Instruct,chain-of-thought,false,6,0,6,26,true,1285.0,1024.6000020503998
+14,Qwen 2.5 3B Instruct,few-shot,false,5,0,5,26,true,547.0,1024.6000020503998
+14,Qwen 2.5 3B Instruct,structured-output,false,6,0,6,26,true,1354.8,1024.6000020503998
+14,Qwen 2.5 3B Instruct,zero-shot,false,6,0,6,26,true,1253.5,1024.6000020503998
+15,Gemma-SEA-LION v4 4B,chain-of-thought,false,8,3,5,9,true,3587.8,78188.99999809265
+15,Gemma-SEA-LION v4 4B,few-shot,false,8,3,5,9,true,1367.0,78188.99999809265
+15,Gemma-SEA-LION v4 4B,structured-output,false,0,0,0,9,true,,78188.99999809265
+15,Gemma-SEA-LION v4 4B,zero-shot,false,0,0,0,9,true,,78188.99999809265
+15,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,9,true,,78188.99999809265
+15,Llama 3.2 3B Instruct,few-shot,false,0,0,0,9,true,,78188.99999809265
+15,Llama 3.2 3B Instruct,structured-output,false,6,3,3,9,true,1972.0,78188.99999809265
+15,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,9,true,,78188.99999809265
+15,MedGemma 4B,chain-of-thought,false,15,3,12,9,true,,78188.99999809265
+15,MedGemma 4B,few-shot,false,10,3,7,9,true,1650.0,78188.99999809265
+15,MedGemma 4B,structured-output,false,11,3,8,9,true,180.0,78188.99999809265
+15,MedGemma 4B,zero-shot,false,12,3,9,9,true,1500.0,78188.99999809265
+15,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,9,true,0.0,78188.99999809265
+15,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,9,true,,78188.99999809265
+15,Phi-4-mini 3.8B Instruct,structured-output,false,6,2,4,9,true,4526.0,78188.99999809265
+15,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,9,true,,78188.99999809265
+15,Qwen 2.5 3B Instruct,chain-of-thought,false,0,0,0,9,true,,78188.99999809265
+15,Qwen 2.5 3B Instruct,few-shot,false,8,3,5,9,true,264.0,78188.99999809265
+15,Qwen 2.5 3B Instruct,structured-output,false,7,3,4,9,true,376.4,78188.99999809265
+15,Qwen 2.5 3B Instruct,zero-shot,false,1,1,0,9,true,714.3,78188.99999809265
+16,Gemma-SEA-LION v4 4B,chain-of-thought,false,11,0,11,11,true,753.0,16646.6997756958
+16,Gemma-SEA-LION v4 4B,few-shot,false,7,0,7,11,true,238.0,16646.6997756958
+16,Gemma-SEA-LION v4 4B,structured-output,false,6,0,6,11,true,271.0,16646.6997756958
+16,Gemma-SEA-LION v4 4B,zero-shot,false,6,0,6,11,true,346.0,16646.6997756958
+16,Llama 3.2 3B Instruct,chain-of-thought,false,5,0,5,11,true,,16646.6997756958
+16,Llama 3.2 3B Instruct,few-shot,false,7,0,7,11,true,234.0,16646.6997756958
+16,Llama 3.2 3B Instruct,structured-output,false,5,0,5,11,true,220.1,16646.6997756958
+16,Llama 3.2 3B Instruct,zero-shot,false,9,0,9,11,true,0.0,16646.6997756958
+16,MedGemma 4B,chain-of-thought,false,11,0,11,11,true,520.0,16646.6997756958
+16,MedGemma 4B,few-shot,false,8,0,8,11,true,2481.0,16646.6997756958
+16,MedGemma 4B,structured-output,false,7,0,7,11,true,150.0,16646.6997756958
+16,MedGemma 4B,zero-shot,false,9,0,9,11,true,1500.0,16646.6997756958
+16,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,11,true,0.0,16646.6997756958
+16,Phi-4-mini 3.8B Instruct,few-shot,false,7,0,7,11,true,314.0,16646.6997756958
+16,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,11,true,0.0,16646.6997756958
+16,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,11,true,0.0,16646.6997756958
+16,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,11,true,0.0,16646.6997756958
+16,Qwen 2.5 3B Instruct,few-shot,false,6,0,6,11,true,163.7,16646.6997756958
+16,Qwen 2.5 3B Instruct,structured-output,false,4,0,4,11,true,125.3,16646.6997756958
+16,Qwen 2.5 3B Instruct,zero-shot,false,0,0,0,11,true,,16646.6997756958
+17,Gemma-SEA-LION v4 4B,chain-of-thought,false,12,0,12,18,true,6490.0,945.2999966144562
+17,Gemma-SEA-LION v4 4B,few-shot,false,13,1,12,18,true,783.0,945.2999966144562
+17,Gemma-SEA-LION v4 4B,structured-output,false,11,0,11,18,true,1895.0,945.2999966144562
+17,Gemma-SEA-LION v4 4B,zero-shot,false,12,0,12,18,true,7830.0,945.2999966144562
+17,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,18,true,,945.2999966144562
+17,Llama 3.2 3B Instruct,few-shot,false,16,0,16,18,true,1049.0,945.2999966144562
+17,Llama 3.2 3B Instruct,structured-output,false,14,1,13,18,true,2501.8,945.2999966144562
+17,Llama 3.2 3B Instruct,zero-shot,false,12,0,12,18,true,1000.0,945.2999966144562
+17,MedGemma 4B,chain-of-thought,false,15,1,14,18,true,650.0,945.2999966144562
+17,MedGemma 4B,few-shot,false,14,0,14,18,true,765.0,945.2999966144562
+17,MedGemma 4B,structured-output,false,14,0,14,18,true,650.0,945.2999966144562
+17,MedGemma 4B,zero-shot,false,15,1,14,18,true,7500.0,945.2999966144562
+17,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,18,true,0.0,945.2999966144562
+17,Phi-4-mini 3.8B Instruct,few-shot,false,12,0,12,18,true,1984.6,945.2999966144562
+17,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,18,true,0.0,945.2999966144562
+17,Phi-4-mini 3.8B Instruct,zero-shot,false,12,0,12,18,true,294.0,945.2999966144562
+17,Qwen 2.5 3B Instruct,chain-of-thought,false,12,0,12,18,true,345.2,945.2999966144562
+17,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,18,true,,945.2999966144562
+17,Qwen 2.5 3B Instruct,structured-output,false,9,0,9,18,true,628.0,945.2999966144562
+17,Qwen 2.5 3B Instruct,zero-shot,false,9,0,9,18,true,318.0,945.2999966144562
+18,Gemma-SEA-LION v4 4B,chain-of-thought,false,0,0,0,17,true,,149153.60000145435
+18,Gemma-SEA-LION v4 4B,few-shot,false,7,3,4,17,true,3254.0,149153.60000145435
+18,Gemma-SEA-LION v4 4B,structured-output,false,10,3,7,17,true,1853.0,149153.60000145435
+18,Gemma-SEA-LION v4 4B,zero-shot,false,9,2,7,17,true,1780.0,149153.60000145435
+18,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,17,true,,149153.60000145435
+18,Llama 3.2 3B Instruct,few-shot,false,10,2,8,17,true,341.0,149153.60000145435
+18,Llama 3.2 3B Instruct,structured-output,false,0,0,0,17,true,,149153.60000145435
+18,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,17,true,,149153.60000145435
+18,MedGemma 4B,chain-of-thought,false,12,4,8,17,true,4560.0,149153.60000145435
+18,MedGemma 4B,few-shot,false,8,3,5,17,true,3910.0,149153.60000145435
+18,MedGemma 4B,structured-output,false,12,4,8,17,true,3500.0,149153.60000145435
+18,MedGemma 4B,zero-shot,false,11,3,8,17,true,2760.0,149153.60000145435
+18,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,17,true,0.0,149153.60000145435
+18,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,17,true,,149153.60000145435
+18,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,17,true,0.0,149153.60000145435
+18,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,17,true,0.0,149153.60000145435
+18,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,17,true,0.0,149153.60000145435
+18,Qwen 2.5 3B Instruct,few-shot,false,9,3,6,17,true,2456.0,149153.60000145435
+18,Qwen 2.5 3B Instruct,structured-output,false,5,0,5,17,true,256.0,149153.60000145435
+18,Qwen 2.5 3B Instruct,zero-shot,false,5,0,5,17,true,345.7,149153.60000145435
+19,Gemma-SEA-LION v4 4B,chain-of-thought,false,11,2,9,17,true,2489.0,4526.200004577637
+19,Gemma-SEA-LION v4 4B,few-shot,false,0,0,0,17,true,,4526.200004577637
+19,Gemma-SEA-LION v4 4B,structured-output,false,10,2,8,17,true,1465.0,4526.200004577637
+19,Gemma-SEA-LION v4 4B,zero-shot,false,10,2,8,17,true,1430.0,4526.200004577637
+19,Llama 3.2 3B Instruct,chain-of-thought,false,7,2,5,17,true,,4526.200004577637
+19,Llama 3.2 3B Instruct,few-shot,false,8,2,6,17,true,434.9,4526.200004577637
+19,Llama 3.2 3B Instruct,structured-output,false,0,0,0,17,true,,4526.200004577637
+19,Llama 3.2 3B Instruct,zero-shot,false,8,2,6,17,true,120.8,4526.200004577637
+19,MedGemma 4B,chain-of-thought,false,2,0,2,17,true,,4526.200004577637
+19,MedGemma 4B,few-shot,false,12,2,10,17,true,1670.0,4526.200004577637
+19,MedGemma 4B,structured-output,false,13,2,11,17,true,1500.0,4526.200004577637
+19,MedGemma 4B,zero-shot,false,10,2,8,17,true,1460.0,4526.200004577637
+19,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,17,true,0.0,4526.200004577637
+19,Phi-4-mini 3.8B Instruct,few-shot,false,6,0,6,17,true,580.5,4526.200004577637
+19,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,17,true,0.0,4526.200004577637
+19,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,17,true,0.0,4526.200004577637
+19,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,17,true,0.0,4526.200004577637
+19,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,17,true,,4526.200004577637
+19,Qwen 2.5 3B Instruct,structured-output,false,0,0,0,17,true,,4526.200004577637
+19,Qwen 2.5 3B Instruct,zero-shot,false,9,2,7,17,true,629.3,4526.200004577637
+20,Gemma-SEA-LION v4 4B,chain-of-thought,false,11,1,10,17,true,450.0,1969.4000005722046
+20,Gemma-SEA-LION v4 4B,few-shot,false,0,0,0,17,true,,1969.4000005722046
+20,Gemma-SEA-LION v4 4B,structured-output,false,11,2,9,17,true,2685.0,1969.4000005722046
+20,Gemma-SEA-LION v4 4B,zero-shot,false,10,1,9,17,true,785.0,1969.4000005722046
+20,Llama 3.2 3B Instruct,chain-of-thought,false,8,1,7,17,true,,1969.4000005722046
+20,Llama 3.2 3B Instruct,few-shot,false,9,2,7,17,true,542.0,1969.4000005722046
+20,Llama 3.2 3B Instruct,structured-output,false,0,0,0,17,true,,1969.4000005722046
+20,Llama 3.2 3B Instruct,zero-shot,false,11,2,9,17,true,1232.5,1969.4000005722046
+20,MedGemma 4B,chain-of-thought,false,13,2,11,17,true,650.0,1969.4000005722046
+20,MedGemma 4B,few-shot,false,12,2,10,17,true,650.0,1969.4000005722046
+20,MedGemma 4B,structured-output,false,13,2,11,17,true,350.0,1969.4000005722046
+20,MedGemma 4B,zero-shot,false,14,2,12,17,true,3560.0,1969.4000005722046
+20,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,17,true,0.0,1969.4000005722046
+20,Phi-4-mini 3.8B Instruct,few-shot,false,17,1,16,17,true,,1969.4000005722046
+20,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,17,true,0.0,1969.4000005722046
+20,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,17,true,0.0,1969.4000005722046
+20,Qwen 2.5 3B Instruct,chain-of-thought,false,8,1,7,17,true,236.1,1969.4000005722046
+20,Qwen 2.5 3B Instruct,few-shot,false,6,1,5,17,true,103.7,1969.4000005722046
+20,Qwen 2.5 3B Instruct,structured-output,false,0,0,0,17,true,,1969.4000005722046
+20,Qwen 2.5 3B Instruct,zero-shot,false,18,0,18,17,true,,1969.4000005722046
+21,Gemma-SEA-LION v4 4B,chain-of-thought,false,0,0,0,13,true,,4713.30001449585
+21,Gemma-SEA-LION v4 4B,few-shot,false,6,5,1,13,true,1687.0,4713.30001449585
+21,Gemma-SEA-LION v4 4B,structured-output,false,7,7,0,13,true,2835.0,4713.30001449585
+21,Gemma-SEA-LION v4 4B,zero-shot,false,10,9,1,13,true,2358.0,4713.30001449585
+21,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,13,true,,4713.30001449585
+21,Llama 3.2 3B Instruct,few-shot,false,7,7,0,13,true,341.0,4713.30001449585
+21,Llama 3.2 3B Instruct,structured-output,false,0,0,0,13,true,,4713.30001449585
+21,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,13,true,,4713.30001449585
+21,MedGemma 4B,chain-of-thought,false,13,12,1,13,true,2860.0,4713.30001449585
+21,MedGemma 4B,few-shot,false,9,8,1,13,true,3450.0,4713.30001449585
+21,MedGemma 4B,structured-output,false,17,6,11,13,true,,4713.30001449585
+21,MedGemma 4B,zero-shot,false,10,9,1,13,true,2500.0,4713.30001449585
+21,Phi-4-mini 3.8B Instruct,chain-of-thought,false,0,0,0,13,true,,4713.30001449585
+21,Phi-4-mini 3.8B Instruct,few-shot,false,9,9,0,13,true,789.4,4713.30001449585
+21,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,13,true,0.0,4713.30001449585
+21,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,13,true,0.0,4713.30001449585
+21,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,13,true,0.0,4713.30001449585
+21,Qwen 2.5 3B Instruct,few-shot,false,7,4,3,13,true,245.0,4713.30001449585
+21,Qwen 2.5 3B Instruct,structured-output,false,4,3,1,13,true,46.5,4713.30001449585
+21,Qwen 2.5 3B Instruct,zero-shot,false,6,5,1,13,true,873.6,4713.30001449585
+22,Gemma-SEA-LION v4 4B,chain-of-thought,false,10,9,1,15,true,791.0,738.9000034332275
+22,Gemma-SEA-LION v4 4B,few-shot,false,11,10,1,15,true,1479.0,738.9000034332275
+22,Gemma-SEA-LION v4 4B,structured-output,false,0,0,0,15,true,,738.9000034332275
+22,Gemma-SEA-LION v4 4B,zero-shot,false,11,10,1,15,true,1260.0,738.9000034332275
+22,Llama 3.2 3B Instruct,chain-of-thought,false,6,4,2,15,true,,738.9000034332275
+22,Llama 3.2 3B Instruct,few-shot,false,10,8,2,15,true,542.0,738.9000034332275
+22,Llama 3.2 3B Instruct,structured-output,false,11,8,3,15,true,240.8,738.9000034332275
+22,Llama 3.2 3B Instruct,zero-shot,false,20,0,20,15,true,,738.9000034332275
+22,MedGemma 4B,chain-of-thought,false,13,10,3,15,true,1450.0,738.9000034332275
+22,MedGemma 4B,few-shot,false,11,10,1,15,true,3460.0,738.9000034332275
+22,MedGemma 4B,structured-output,false,10,9,1,15,true,760.0,738.9000034332275
+22,MedGemma 4B,zero-shot,false,13,12,1,15,true,3500.0,738.9000034332275
+22,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,738.9000034332275
+22,Phi-4-mini 3.8B Instruct,few-shot,false,9,6,3,15,true,1206.0,738.9000034332275
+22,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,15,true,0.0,738.9000034332275
+22,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,15,true,0.0,738.9000034332275
+22,Qwen 2.5 3B Instruct,chain-of-thought,false,11,8,3,15,true,249.8,738.9000034332275
+22,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,15,true,,738.9000034332275
+22,Qwen 2.5 3B Instruct,structured-output,false,0,0,0,15,true,,738.9000034332275
+22,Qwen 2.5 3B Instruct,zero-shot,false,9,7,2,15,true,135.2,738.9000034332275
+23,Gemma-SEA-LION v4 4B,chain-of-thought,false,0,0,0,15,true,,536.8000018596649
+23,Gemma-SEA-LION v4 4B,few-shot,false,0,0,0,15,true,,536.8000018596649
+23,Gemma-SEA-LION v4 4B,structured-output,false,0,0,0,15,true,,536.8000018596649
+23,Gemma-SEA-LION v4 4B,zero-shot,false,0,0,0,15,true,,536.8000018596649
+23,Llama 3.2 3B Instruct,chain-of-thought,false,2,2,0,15,true,,536.8000018596649
+23,Llama 3.2 3B Instruct,few-shot,false,9,9,0,15,true,542.0,536.8000018596649
+23,Llama 3.2 3B Instruct,structured-output,false,0,0,0,15,true,,536.8000018596649
+23,Llama 3.2 3B Instruct,zero-shot,false,9,8,1,15,true,444.8,536.8000018596649
+23,MedGemma 4B,chain-of-thought,false,17,13,4,15,true,,536.8000018596649
+23,MedGemma 4B,few-shot,false,15,13,2,15,true,,536.8000018596649
+23,MedGemma 4B,structured-output,false,12,10,2,15,true,450.0,536.8000018596649
+23,MedGemma 4B,zero-shot,false,17,13,4,15,true,,536.8000018596649
+23,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,536.8000018596649
+23,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,15,true,,536.8000018596649
+23,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,15,true,0.0,536.8000018596649
+23,Phi-4-mini 3.8B Instruct,zero-shot,false,14,8,6,15,true,486.0,536.8000018596649
+23,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,536.8000018596649
+23,Qwen 2.5 3B Instruct,few-shot,false,9,9,0,15,true,649.8,536.8000018596649
+23,Qwen 2.5 3B Instruct,structured-output,false,0,0,0,15,true,,536.8000018596649
+23,Qwen 2.5 3B Instruct,zero-shot,false,11,10,1,15,true,628.7,536.8000018596649
+24,Gemma-SEA-LION v4 4B,chain-of-thought,false,3,3,0,3,true,1345.0,2855.800003051758
+24,Gemma-SEA-LION v4 4B,few-shot,false,3,3,0,3,true,930.0,2855.800003051758
+24,Gemma-SEA-LION v4 4B,structured-output,false,3,0,3,3,true,1748.0,2855.800003051758
+24,Gemma-SEA-LION v4 4B,zero-shot,false,3,3,0,3,true,1008.0,2855.800003051758
+24,Llama 3.2 3B Instruct,chain-of-thought,false,3,0,3,3,true,275.0,2855.800003051758
+24,Llama 3.2 3B Instruct,few-shot,false,3,3,0,3,true,540.0,2855.800003051758
+24,Llama 3.2 3B Instruct,structured-output,false,3,3,0,3,true,1920.0,2855.800003051758
+24,Llama 3.2 3B Instruct,zero-shot,false,3,3,0,3,true,0.0,2855.800003051758
+24,MedGemma 4B,chain-of-thought,false,3,3,0,3,true,550.0,2855.800003051758
+24,MedGemma 4B,few-shot,false,3,3,0,3,true,800.0,2855.800003051758
+24,MedGemma 4B,structured-output,false,3,0,3,3,true,600.0,2855.800003051758
+24,MedGemma 4B,zero-shot,false,3,3,0,3,true,700.0,2855.800003051758
+24,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,3,true,0.0,2855.800003051758
+24,Phi-4-mini 3.8B Instruct,few-shot,false,3,3,0,3,true,742.0,2855.800003051758
+24,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,3,true,0.0,2855.800003051758
+24,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,3,true,0.0,2855.800003051758
+24,Qwen 2.5 3B Instruct,chain-of-thought,false,3,0,3,3,true,258.3,2855.800003051758
+24,Qwen 2.5 3B Instruct,few-shot,false,3,3,0,3,true,284.0,2855.800003051758
+24,Qwen 2.5 3B Instruct,structured-output,false,3,3,0,3,true,154.3,2855.800003051758
+24,Qwen 2.5 3B Instruct,zero-shot,false,3,3,0,3,true,235.0,2855.800003051758
+25,Gemma-SEA-LION v4 4B,chain-of-thought,false,13,4,9,16,true,1340.0,793.6999994516373
+25,Gemma-SEA-LION v4 4B,few-shot,false,12,9,3,16,true,1257.0,793.6999994516373
+25,Gemma-SEA-LION v4 4B,structured-output,false,13,5,8,16,true,980.0,793.6999994516373
+25,Gemma-SEA-LION v4 4B,zero-shot,false,13,8,5,16,true,480.0,793.6999994516373
+25,Llama 3.2 3B Instruct,chain-of-thought,false,8,2,6,16,true,,793.6999994516373
+25,Llama 3.2 3B Instruct,few-shot,false,8,6,2,16,true,542.0,793.6999994516373
+25,Llama 3.2 3B Instruct,structured-output,false,0,0,0,16,true,,793.6999994516373
+25,Llama 3.2 3B Instruct,zero-shot,false,8,7,1,16,true,1508.2,793.6999994516373
+25,MedGemma 4B,chain-of-thought,false,17,11,6,16,true,,793.6999994516373
+25,MedGemma 4B,few-shot,false,13,9,4,16,true,2460.0,793.6999994516373
+25,MedGemma 4B,structured-output,false,13,9,4,16,true,1360.0,793.6999994516373
+25,MedGemma 4B,zero-shot,false,17,12,5,16,true,,793.6999994516373
+25,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,16,true,0.0,793.6999994516373
+25,Phi-4-mini 3.8B Instruct,few-shot,false,18,16,2,16,true,,793.6999994516373
+25,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,16,true,0.0,793.6999994516373
+25,Phi-4-mini 3.8B Instruct,zero-shot,false,10,8,2,16,true,522.0,793.6999994516373
+25,Qwen 2.5 3B Instruct,chain-of-thought,false,9,7,2,16,true,457.8,793.6999994516373
+25,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,16,true,,793.6999994516373
+25,Qwen 2.5 3B Instruct,structured-output,false,8,4,4,16,true,489.4,793.6999994516373
+25,Qwen 2.5 3B Instruct,zero-shot,false,7,4,3,16,true,687.5,793.6999994516373
+26,Gemma-SEA-LION v4 4B,chain-of-thought,false,11,11,0,12,true,1483.0,2396.7999963760376
+26,Gemma-SEA-LION v4 4B,few-shot,false,11,11,0,12,true,1876.0,2396.7999963760376
+26,Gemma-SEA-LION v4 4B,structured-output,false,10,10,0,12,true,1436.0,2396.7999963760376
+26,Gemma-SEA-LION v4 4B,zero-shot,false,10,10,0,12,true,947.0,2396.7999963760376
+26,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,12,true,,2396.7999963760376
+26,Llama 3.2 3B Instruct,few-shot,false,9,8,1,12,true,432.0,2396.7999963760376
+26,Llama 3.2 3B Instruct,structured-output,false,0,0,0,12,true,,2396.7999963760376
+26,Llama 3.2 3B Instruct,zero-shot,false,10,9,1,12,true,10351.4,2396.7999963760376
+26,MedGemma 4B,chain-of-thought,false,12,11,1,12,true,3500.0,2396.7999963760376
+26,MedGemma 4B,few-shot,false,11,10,1,12,true,2756.0,2396.7999963760376
+26,MedGemma 4B,structured-output,false,10,6,4,12,true,1670.0,2396.7999963760376
+26,MedGemma 4B,zero-shot,false,11,10,1,12,true,3500.0,2396.7999963760376
+26,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,12,true,0.0,2396.7999963760376
+26,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,12,true,,2396.7999963760376
+26,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,12,true,0.0,2396.7999963760376
+26,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,12,true,,2396.7999963760376
+26,Qwen 2.5 3B Instruct,chain-of-thought,false,2,0,2,12,true,125.8,2396.7999963760376
+26,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,12,true,,2396.7999963760376
+26,Qwen 2.5 3B Instruct,structured-output,false,8,0,8,12,true,469.2,2396.7999963760376
+26,Qwen 2.5 3B Instruct,zero-shot,false,9,0,9,12,true,297.5,2396.7999963760376
+27,Gemma-SEA-LION v4 4B,chain-of-thought,false,11,10,1,15,true,793.7,383.0999994277954
+27,Gemma-SEA-LION v4 4B,few-shot,false,14,11,3,15,true,457.0,383.0999994277954
+27,Gemma-SEA-LION v4 4B,structured-output,false,9,8,1,15,true,835.0,383.0999994277954
+27,Gemma-SEA-LION v4 4B,zero-shot,false,9,9,0,15,true,780.0,383.0999994277954
+27,Llama 3.2 3B Instruct,chain-of-thought,false,1,1,0,15,true,,383.0999994277954
+27,Llama 3.2 3B Instruct,few-shot,false,10,9,1,15,true,442.0,383.0999994277954
+27,Llama 3.2 3B Instruct,structured-output,false,9,0,9,15,true,1032.8,383.0999994277954
+27,Llama 3.2 3B Instruct,zero-shot,false,18,3,15,15,true,,383.0999994277954
+27,MedGemma 4B,chain-of-thought,false,17,14,3,15,true,,383.0999994277954
+27,MedGemma 4B,few-shot,false,15,13,2,15,true,,383.0999994277954
+27,MedGemma 4B,structured-output,false,12,10,2,15,true,460.0,383.0999994277954
+27,MedGemma 4B,zero-shot,false,12,11,1,15,true,350.0,383.0999994277954
+27,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,383.0999994277954
+27,Phi-4-mini 3.8B Instruct,few-shot,false,10,6,4,15,true,872.8,383.0999994277954
+27,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,15,true,0.0,383.0999994277954
+27,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,15,true,,383.0999994277954
+27,Qwen 2.5 3B Instruct,chain-of-thought,false,11,1,10,15,true,251.4,383.0999994277954
+27,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,15,true,,383.0999994277954
+27,Qwen 2.5 3B Instruct,structured-output,false,8,4,4,15,true,476.3,383.0999994277954
+27,Qwen 2.5 3B Instruct,zero-shot,false,11,7,4,15,true,348.6,383.0999994277954
+28,Gemma-SEA-LION v4 4B,chain-of-thought,false,14,11,3,20,true,2786.0,3348.600016117096
+28,Gemma-SEA-LION v4 4B,few-shot,false,11,10,1,20,true,3871.0,3348.600016117096
+28,Gemma-SEA-LION v4 4B,structured-output,false,7,6,1,20,true,1492.0,3348.600016117096
+28,Gemma-SEA-LION v4 4B,zero-shot,false,12,11,1,20,true,1879.0,3348.600016117096
+28,Llama 3.2 3B Instruct,chain-of-thought,false,5,3,2,20,true,,3348.600016117096
+28,Llama 3.2 3B Instruct,few-shot,false,18,15,3,20,true,,3348.600016117096
+28,Llama 3.2 3B Instruct,structured-output,false,12,10,2,20,true,1241.8,3348.600016117096
+28,Llama 3.2 3B Instruct,zero-shot,false,13,11,2,20,true,3845.9,3348.600016117096
+28,MedGemma 4B,chain-of-thought,false,16,15,1,20,true,3500.0,3348.600016117096
+28,MedGemma 4B,few-shot,false,15,14,1,20,true,,3348.600016117096
+28,MedGemma 4B,structured-output,false,16,15,1,20,true,,3348.600016117096
+28,MedGemma 4B,zero-shot,false,16,14,2,20,true,,3348.600016117096
+28,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,20,true,0.0,3348.600016117096
+28,Phi-4-mini 3.8B Instruct,few-shot,false,15,10,5,20,true,2947.4,3348.600016117096
+28,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,20,true,0.0,3348.600016117096
+28,Phi-4-mini 3.8B Instruct,zero-shot,false,13,10,3,20,true,2569.7,3348.600016117096
+28,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,20,true,0.0,3348.600016117096
+28,Qwen 2.5 3B Instruct,few-shot,false,11,8,3,20,true,867.0,3348.600016117096
+28,Qwen 2.5 3B Instruct,structured-output,false,3,1,2,20,true,529.7,3348.600016117096
+28,Qwen 2.5 3B Instruct,zero-shot,false,1,0,1,20,true,0.0,3348.600016117096
+29,Gemma-SEA-LION v4 4B,chain-of-thought,false,15,13,2,17,true,,1745.7999930381775
+29,Gemma-SEA-LION v4 4B,few-shot,false,15,13,2,17,true,,1745.7999930381775
+29,Gemma-SEA-LION v4 4B,structured-output,false,15,14,1,17,true,1265.0,1745.7999930381775
+29,Gemma-SEA-LION v4 4B,zero-shot,false,16,14,2,17,true,,1745.7999930381775
+29,Llama 3.2 3B Instruct,chain-of-thought,false,6,6,0,17,true,,1745.7999930381775
+29,Llama 3.2 3B Instruct,few-shot,false,16,14,2,17,true,542.0,1745.7999930381775
+29,Llama 3.2 3B Instruct,structured-output,false,16,13,3,17,true,1622.8,1745.7999930381775
+29,Llama 3.2 3B Instruct,zero-shot,false,15,13,2,17,true,1044.8,1745.7999930381775
+29,MedGemma 4B,chain-of-thought,false,16,13,3,17,true,,1745.7999930381775
+29,MedGemma 4B,few-shot,false,15,11,4,17,true,,1745.7999930381775
+29,MedGemma 4B,structured-output,false,16,0,16,17,true,,1745.7999930381775
+29,MedGemma 4B,zero-shot,false,16,13,3,17,true,,1745.7999930381775
+29,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,17,true,0.0,1745.7999930381775
+29,Phi-4-mini 3.8B Instruct,few-shot,false,16,8,8,17,true,2249.3,1745.7999930381775
+29,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,17,true,0.0,1745.7999930381775
+29,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,17,true,,1745.7999930381775
+29,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,17,true,0.0,1745.7999930381775
+29,Qwen 2.5 3B Instruct,few-shot,false,17,8,9,17,true,,1745.7999930381775
+29,Qwen 2.5 3B Instruct,structured-output,false,15,1,14,17,true,523.7,1745.7999930381775
+29,Qwen 2.5 3B Instruct,zero-shot,false,10,0,10,17,true,276.8,1745.7999930381775
+30,Gemma-SEA-LION v4 4B,chain-of-thought,false,3,2,1,2,true,1200.0,286.5
+30,Gemma-SEA-LION v4 4B,few-shot,false,3,2,1,2,true,834.0,286.5
+30,Gemma-SEA-LION v4 4B,structured-output,false,2,2,0,2,true,393.8,286.5
+30,Gemma-SEA-LION v4 4B,zero-shot,false,3,2,1,2,true,557.6,286.5
+30,Llama 3.2 3B Instruct,chain-of-thought,false,4,2,2,2,true,10330.0,286.5
+30,Llama 3.2 3B Instruct,few-shot,false,2,2,0,2,true,548.0,286.5
+30,Llama 3.2 3B Instruct,structured-output,false,2,2,0,2,true,300.0,286.5
+30,Llama 3.2 3B Instruct,zero-shot,false,4,0,4,2,true,0.0,286.5
+30,MedGemma 4B,chain-of-thought,false,4,2,2,2,true,800.0,286.5
+30,MedGemma 4B,few-shot,false,2,2,0,2,true,800.0,286.5
+30,MedGemma 4B,structured-output,false,2,2,0,2,true,550.0,286.5
+30,MedGemma 4B,zero-shot,false,4,2,2,2,true,1250.0,286.5
+30,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,2,true,0.0,286.5
+30,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,2,true,,286.5
+30,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,2,true,0.0,286.5
+30,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,2,true,0.0,286.5
+30,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,2,true,0.0,286.5
+30,Qwen 2.5 3B Instruct,few-shot,false,2,2,0,2,true,273.0,286.5
+30,Qwen 2.5 3B Instruct,structured-output,false,2,2,0,2,true,180.1,286.5
+30,Qwen 2.5 3B Instruct,zero-shot,false,1,0,1,2,true,0.0,286.5
+31,Gemma-SEA-LION v4 4B,chain-of-thought,false,8,1,7,9,true,1740.0,641.1000003814697
+31,Gemma-SEA-LION v4 4B,few-shot,false,9,8,1,9,true,1479.0,641.1000003814697
+31,Gemma-SEA-LION v4 4B,structured-output,false,8,7,1,9,true,1373.0,641.1000003814697
+31,Gemma-SEA-LION v4 4B,zero-shot,false,9,7,2,9,true,1480.0,641.1000003814697
+31,Llama 3.2 3B Instruct,chain-of-thought,false,4,0,4,9,true,20650.0,641.1000003814697
+31,Llama 3.2 3B Instruct,few-shot,false,9,9,0,9,true,542.0,641.1000003814697
+31,Llama 3.2 3B Instruct,structured-output,false,8,8,0,9,true,1231.8,641.1000003814697
+31,Llama 3.2 3B Instruct,zero-shot,false,7,3,4,9,true,550.6,641.1000003814697
+31,MedGemma 4B,chain-of-thought,false,9,8,1,9,true,1760.0,641.1000003814697
+31,MedGemma 4B,few-shot,false,10,8,2,9,true,2480.0,641.1000003814697
+31,MedGemma 4B,structured-output,false,9,7,2,9,true,2480.0,641.1000003814697
+31,MedGemma 4B,zero-shot,false,10,8,2,9,true,3500.0,641.1000003814697
+31,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,9,true,0.0,641.1000003814697
+31,Phi-4-mini 3.8B Instruct,few-shot,false,7,4,3,9,true,957.0,641.1000003814697
+31,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,9,true,0.0,641.1000003814697
+31,Phi-4-mini 3.8B Instruct,zero-shot,false,10,6,4,9,true,457.6,641.1000003814697
+31,Qwen 2.5 3B Instruct,chain-of-thought,false,8,0,8,9,true,895.4,641.1000003814697
+31,Qwen 2.5 3B Instruct,few-shot,false,9,7,2,9,true,324.0,641.1000003814697
+31,Qwen 2.5 3B Instruct,structured-output,false,6,0,6,9,true,526.9,641.1000003814697
+31,Qwen 2.5 3B Instruct,zero-shot,false,8,6,2,9,true,795.2,641.1000003814697
+32,Gemma-SEA-LION v4 4B,chain-of-thought,false,11,10,1,12,true,1893.0,2140.499987602234
+32,Gemma-SEA-LION v4 4B,few-shot,false,11,10,1,12,true,2438.0,2140.499987602234
+32,Gemma-SEA-LION v4 4B,structured-output,false,11,11,0,12,true,1387.6,2140.499987602234
+32,Gemma-SEA-LION v4 4B,zero-shot,false,0,0,0,12,true,,2140.499987602234
+32,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,12,true,,2140.499987602234
+32,Llama 3.2 3B Instruct,few-shot,false,9,7,2,12,true,542.0,2140.499987602234
+32,Llama 3.2 3B Instruct,structured-output,false,8,5,3,12,true,1042.8,2140.499987602234
+32,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,12,true,,2140.499987602234
+32,MedGemma 4B,chain-of-thought,false,12,12,0,12,true,1780.0,2140.499987602234
+32,MedGemma 4B,few-shot,false,12,12,0,12,true,3650.0,2140.499987602234
+32,MedGemma 4B,structured-output,false,12,12,0,12,true,3500.0,2140.499987602234
+32,MedGemma 4B,zero-shot,false,11,11,0,12,true,2450.0,2140.499987602234
+32,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,12,true,0.0,2140.499987602234
+32,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,12,true,,2140.499987602234
+32,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,12,true,0.0,2140.499987602234
+32,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,12,true,,2140.499987602234
+32,Qwen 2.5 3B Instruct,chain-of-thought,false,10,0,10,12,true,345.7,2140.499987602234
+32,Qwen 2.5 3B Instruct,few-shot,false,11,10,1,12,true,374.0,2140.499987602234
+32,Qwen 2.5 3B Instruct,structured-output,false,9,0,9,12,true,261.4,2140.499987602234
+32,Qwen 2.5 3B Instruct,zero-shot,false,7,0,7,12,true,327.5,2140.499987602234
+33,Gemma-SEA-LION v4 4B,chain-of-thought,false,12,7,5,11,true,1035.0,1062.4000000953674
+33,Gemma-SEA-LION v4 4B,few-shot,false,13,9,4,11,true,1036.0,1062.4000000953674
+33,Gemma-SEA-LION v4 4B,structured-output,false,12,9,3,11,true,1534.0,1062.4000000953674
+33,Gemma-SEA-LION v4 4B,zero-shot,false,0,0,0,11,true,,1062.4000000953674
+33,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,11,true,,1062.4000000953674
+33,Llama 3.2 3B Instruct,few-shot,false,7,7,0,11,true,542.0,1062.4000000953674
+33,Llama 3.2 3B Instruct,structured-output,false,7,7,0,11,true,840.0,1062.4000000953674
+33,Llama 3.2 3B Instruct,zero-shot,false,7,4,3,11,true,2351.8,1062.4000000953674
+33,MedGemma 4B,chain-of-thought,false,8,7,1,11,true,,1062.4000000953674
+33,MedGemma 4B,few-shot,false,11,8,3,11,true,1658.0,1062.4000000953674
+33,MedGemma 4B,structured-output,false,12,9,3,11,true,1460.0,1062.4000000953674
+33,MedGemma 4B,zero-shot,false,15,9,6,11,true,1750.0,1062.4000000953674
+33,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,11,true,0.0,1062.4000000953674
+33,Phi-4-mini 3.8B Instruct,few-shot,false,13,8,5,11,true,795.0,1062.4000000953674
+33,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,11,true,0.0,1062.4000000953674
+33,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,11,true,0.0,1062.4000000953674
+33,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,11,true,0.0,1062.4000000953674
+33,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,11,true,,1062.4000000953674
+33,Qwen 2.5 3B Instruct,structured-output,false,1,0,1,11,true,135.5,1062.4000000953674
+33,Qwen 2.5 3B Instruct,zero-shot,false,1,0,1,11,true,64.5,1062.4000000953674
+34,Gemma-SEA-LION v4 4B,chain-of-thought,false,0,0,0,15,true,,1658.6000006198883
+34,Gemma-SEA-LION v4 4B,few-shot,false,0,0,0,15,true,,1658.6000006198883
+34,Gemma-SEA-LION v4 4B,structured-output,false,12,10,2,15,true,837.0,1658.6000006198883
+34,Gemma-SEA-LION v4 4B,zero-shot,false,0,0,0,15,true,,1658.6000006198883
+34,Llama 3.2 3B Instruct,chain-of-thought,false,6,0,6,15,true,,1658.6000006198883
+34,Llama 3.2 3B Instruct,few-shot,false,0,0,0,15,true,,1658.6000006198883
+34,Llama 3.2 3B Instruct,structured-output,false,0,0,0,15,true,,1658.6000006198883
+34,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,15,true,,1658.6000006198883
+34,MedGemma 4B,chain-of-thought,false,17,14,3,15,true,,1658.6000006198883
+34,MedGemma 4B,few-shot,false,15,12,3,15,true,,1658.6000006198883
+34,MedGemma 4B,structured-output,false,15,12,3,15,true,1650.0,1658.6000006198883
+34,MedGemma 4B,zero-shot,false,15,12,3,15,true,1270.0,1658.6000006198883
+34,Phi-4-mini 3.8B Instruct,chain-of-thought,false,0,0,0,15,true,,1658.6000006198883
+34,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,15,true,,1658.6000006198883
+34,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,15,true,0.0,1658.6000006198883
+34,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,15,true,,1658.6000006198883
+34,Qwen 2.5 3B Instruct,chain-of-thought,false,12,1,11,15,true,1265.4,1658.6000006198883
+34,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,15,true,,1658.6000006198883
+34,Qwen 2.5 3B Instruct,structured-output,false,0,0,0,15,true,,1658.6000006198883
+34,Qwen 2.5 3B Instruct,zero-shot,false,14,1,13,15,true,215.3,1658.6000006198883
+35,Gemma-SEA-LION v4 4B,chain-of-thought,false,7,4,3,8,true,2937.5,2489.699987411499
+35,Gemma-SEA-LION v4 4B,few-shot,false,7,5,2,8,true,2380.0,2489.699987411499
+35,Gemma-SEA-LION v4 4B,structured-output,false,6,3,3,8,true,2815.0,2489.699987411499
+35,Gemma-SEA-LION v4 4B,zero-shot,false,7,4,3,8,true,2076.0,2489.699987411499
+35,Llama 3.2 3B Instruct,chain-of-thought,false,4,4,0,8,true,57002.0,2489.699987411499
+35,Llama 3.2 3B Instruct,few-shot,false,5,4,1,8,true,432.0,2489.699987411499
+35,Llama 3.2 3B Instruct,structured-output,false,5,4,1,8,true,3208.8,2489.699987411499
+35,Llama 3.2 3B Instruct,zero-shot,false,6,4,2,8,true,4331.5,2489.699987411499
+35,MedGemma 4B,chain-of-thought,false,7,0,7,8,true,1750.0,2489.699987411499
+35,MedGemma 4B,few-shot,false,7,6,1,8,true,2466.0,2489.699987411499
+35,MedGemma 4B,structured-output,false,8,6,2,8,true,1750.0,2489.699987411499
+35,MedGemma 4B,zero-shot,false,7,3,4,8,true,1435.0,2489.699987411499
+35,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,8,true,0.0,2489.699987411499
+35,Phi-4-mini 3.8B Instruct,few-shot,false,5,0,5,8,true,1562.7,2489.699987411499
+35,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,8,true,0.0,2489.699987411499
+35,Phi-4-mini 3.8B Instruct,zero-shot,false,5,1,4,8,true,3310.0,2489.699987411499
+35,Qwen 2.5 3B Instruct,chain-of-thought,false,6,0,6,8,true,635.8,2489.699987411499
+35,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,8,true,,2489.699987411499
+35,Qwen 2.5 3B Instruct,structured-output,false,5,1,4,8,true,892.3,2489.699987411499
+35,Qwen 2.5 3B Instruct,zero-shot,false,6,0,6,8,true,736.4,2489.699987411499
+36,Gemma-SEA-LION v4 4B,chain-of-thought,false,5,4,1,12,true,1005.0,1736.5999999046326
+36,Gemma-SEA-LION v4 4B,few-shot,false,5,5,0,12,true,795.0,1736.5999999046326
+36,Gemma-SEA-LION v4 4B,structured-output,false,5,5,0,12,true,620.0,1736.5999999046326
+36,Gemma-SEA-LION v4 4B,zero-shot,false,5,5,0,12,true,480.0,1736.5999999046326
+36,Llama 3.2 3B Instruct,chain-of-thought,false,9,0,9,12,true,245.0,1736.5999999046326
+36,Llama 3.2 3B Instruct,few-shot,false,4,4,0,12,true,160.0,1736.5999999046326
+36,Llama 3.2 3B Instruct,structured-output,false,5,5,0,12,true,360.0,1736.5999999046326
+36,Llama 3.2 3B Instruct,zero-shot,false,19,0,19,12,true,,1736.5999999046326
+36,MedGemma 4B,chain-of-thought,false,15,8,7,12,true,120.0,1736.5999999046326
+36,MedGemma 4B,few-shot,false,5,5,0,12,true,800.0,1736.5999999046326
+36,MedGemma 4B,structured-output,false,6,5,1,12,true,650.0,1736.5999999046326
+36,MedGemma 4B,zero-shot,false,5,5,0,12,true,620.0,1736.5999999046326
+36,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,12,true,0.0,1736.5999999046326
+36,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,12,true,0.0,1736.5999999046326
+36,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,12,true,0.0,1736.5999999046326
+36,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,12,true,0.0,1736.5999999046326
+36,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,12,true,0.0,1736.5999999046326
+36,Qwen 2.5 3B Instruct,few-shot,false,8,1,7,12,true,345.0,1736.5999999046326
+36,Qwen 2.5 3B Instruct,structured-output,false,5,0,5,12,true,234.8,1736.5999999046326
+36,Qwen 2.5 3B Instruct,zero-shot,false,10,4,6,12,true,789.5,1736.5999999046326
+37,Gemma-SEA-LION v4 4B,chain-of-thought,false,14,10,4,11,true,945.0,698.7999992370605
+37,Gemma-SEA-LION v4 4B,few-shot,false,12,10,2,11,true,1836.0,698.7999992370605
+37,Gemma-SEA-LION v4 4B,structured-output,false,9,7,2,11,true,780.0,698.7999992370605
+37,Gemma-SEA-LION v4 4B,zero-shot,false,10,8,2,11,true,1370.0,698.7999992370605
+37,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,11,true,,698.7999992370605
+37,Llama 3.2 3B Instruct,few-shot,false,12,5,7,11,true,542.0,698.7999992370605
+37,Llama 3.2 3B Instruct,structured-output,false,0,0,0,11,true,,698.7999992370605
+37,Llama 3.2 3B Instruct,zero-shot,false,17,11,6,11,true,,698.7999992370605
+37,MedGemma 4B,chain-of-thought,false,15,9,6,11,true,1470.0,698.7999992370605
+37,MedGemma 4B,few-shot,false,15,9,6,11,true,,698.7999992370605
+37,MedGemma 4B,structured-output,false,16,10,6,11,true,,698.7999992370605
+37,MedGemma 4B,zero-shot,false,15,9,6,11,true,450.0,698.7999992370605
+37,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,11,true,0.0,698.7999992370605
+37,Phi-4-mini 3.8B Instruct,few-shot,false,10,6,4,11,true,1234.5,698.7999992370605
+37,Phi-4-mini 3.8B Instruct,structured-output,false,0,0,0,11,true,,698.7999992370605
+37,Phi-4-mini 3.8B Instruct,zero-shot,false,13,4,9,11,true,242.6,698.7999992370605
+37,Qwen 2.5 3B Instruct,chain-of-thought,false,11,0,11,11,true,1239.8,698.7999992370605
+37,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,11,true,,698.7999992370605
+37,Qwen 2.5 3B Instruct,structured-output,false,14,3,11,11,true,923.5,698.7999992370605
+37,Qwen 2.5 3B Instruct,zero-shot,false,11,0,11,11,true,1236.8,698.7999992370605
+38,Gemma-SEA-LION v4 4B,chain-of-thought,false,9,7,2,9,true,450.0,518.1000008583069
+38,Gemma-SEA-LION v4 4B,few-shot,false,10,7,3,9,true,438.0,518.1000008583069
+38,Gemma-SEA-LION v4 4B,structured-output,false,12,7,5,9,true,635.0,518.1000008583069
+38,Gemma-SEA-LION v4 4B,zero-shot,false,10,7,3,9,true,350.0,518.1000008583069
+38,Llama 3.2 3B Instruct,chain-of-thought,false,7,4,3,9,true,,518.1000008583069
+38,Llama 3.2 3B Instruct,few-shot,false,9,6,3,9,true,542.0,518.1000008583069
+38,Llama 3.2 3B Instruct,structured-output,false,8,5,3,9,true,420.8,518.1000008583069
+38,Llama 3.2 3B Instruct,zero-shot,false,11,7,4,9,true,344.8,518.1000008583069
+38,MedGemma 4B,chain-of-thought,false,13,8,5,9,true,450.0,518.1000008583069
+38,MedGemma 4B,few-shot,false,13,8,5,9,true,450.0,518.1000008583069
+38,MedGemma 4B,structured-output,false,15,10,5,9,true,1250.0,518.1000008583069
+38,MedGemma 4B,zero-shot,false,13,8,5,9,true,350.0,518.1000008583069
+38,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,9,true,0.0,518.1000008583069
+38,Phi-4-mini 3.8B Instruct,few-shot,false,14,5,9,9,true,690.4,518.1000008583069
+38,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,9,true,0.0,518.1000008583069
+38,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,9,true,,518.1000008583069
+38,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,9,true,0.0,518.1000008583069
+38,Qwen 2.5 3B Instruct,few-shot,false,12,8,4,9,true,728.0,518.1000008583069
+38,Qwen 2.5 3B Instruct,structured-output,false,6,3,3,9,true,697.3,518.1000008583069
+38,Qwen 2.5 3B Instruct,zero-shot,false,0,0,0,9,true,,518.1000008583069
+39,Gemma-SEA-LION v4 4B,chain-of-thought,false,15,9,6,15,true,,4191.699996471405
+39,Gemma-SEA-LION v4 4B,few-shot,false,15,10,5,15,true,,4191.699996471405
+39,Gemma-SEA-LION v4 4B,structured-output,false,10,4,6,15,true,4390.0,4191.699996471405
+39,Gemma-SEA-LION v4 4B,zero-shot,false,16,11,5,15,true,,4191.699996471405
+39,Llama 3.2 3B Instruct,chain-of-thought,false,4,0,4,15,true,,4191.699996471405
+39,Llama 3.2 3B Instruct,few-shot,false,11,6,5,15,true,1049.0,4191.699996471405
+39,Llama 3.2 3B Instruct,structured-output,false,0,0,0,15,true,,4191.699996471405
+39,Llama 3.2 3B Instruct,zero-shot,false,11,7,4,15,true,1234.5,4191.699996471405
+39,MedGemma 4B,chain-of-thought,false,17,11,6,15,true,,4191.699996471405
+39,MedGemma 4B,few-shot,false,15,10,5,15,true,,4191.699996471405
+39,MedGemma 4B,structured-output,false,16,9,7,15,true,,4191.699996471405
+39,MedGemma 4B,zero-shot,false,16,10,6,15,true,,4191.699996471405
+39,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,4191.699996471405
+39,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,15,true,,4191.699996471405
+39,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,15,true,0.0,4191.699996471405
+39,Phi-4-mini 3.8B Instruct,zero-shot,false,17,8,9,15,true,5481.6,4191.699996471405
+39,Qwen 2.5 3B Instruct,chain-of-thought,false,15,8,7,15,true,546.2,4191.699996471405
+39,Qwen 2.5 3B Instruct,few-shot,false,18,1,17,15,true,,4191.699996471405
+39,Qwen 2.5 3B Instruct,structured-output,false,13,0,13,15,true,528.3,4191.699996471405
+39,Qwen 2.5 3B Instruct,zero-shot,false,8,5,3,15,true,347.5,4191.699996471405
+40,Gemma-SEA-LION v4 4B,chain-of-thought,false,15,7,8,13,true,,2192.099998474121
+40,Gemma-SEA-LION v4 4B,few-shot,false,15,8,7,13,true,,2192.099998474121
+40,Gemma-SEA-LION v4 4B,structured-output,false,10,7,3,13,true,1875.0,2192.099998474121
+40,Gemma-SEA-LION v4 4B,zero-shot,false,10,7,3,13,true,3480.0,2192.099998474121
+40,Llama 3.2 3B Instruct,chain-of-thought,false,7,0,7,13,true,968.0,2192.099998474121
+40,Llama 3.2 3B Instruct,few-shot,false,9,6,3,13,true,542.0,2192.099998474121
+40,Llama 3.2 3B Instruct,structured-output,false,0,0,0,13,true,,2192.099998474121
+40,Llama 3.2 3B Instruct,zero-shot,false,16,7,9,13,true,420.2,2192.099998474121
+40,MedGemma 4B,chain-of-thought,false,17,8,9,13,true,,2192.099998474121
+40,MedGemma 4B,few-shot,false,15,8,7,13,true,,2192.099998474121
+40,MedGemma 4B,structured-output,false,17,8,9,13,true,,2192.099998474121
+40,MedGemma 4B,zero-shot,false,17,8,9,13,true,,2192.099998474121
+40,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,13,true,0.0,2192.099998474121
+40,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,13,true,,2192.099998474121
+40,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,13,true,0.0,2192.099998474121
+40,Phi-4-mini 3.8B Instruct,zero-shot,false,12,1,11,13,true,1070.0,2192.099998474121
+40,Qwen 2.5 3B Instruct,chain-of-thought,false,11,0,11,13,true,0.0,2192.099998474121
+40,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,13,true,,2192.099998474121
+40,Qwen 2.5 3B Instruct,structured-output,false,14,2,12,13,true,489.3,2192.099998474121
+40,Qwen 2.5 3B Instruct,zero-shot,false,11,1,10,13,true,693.2,2192.099998474121
+41,Gemma-SEA-LION v4 4B,chain-of-thought,false,11,11,0,15,true,1875.0,4663.299999952316
+41,Gemma-SEA-LION v4 4B,few-shot,false,11,11,0,15,true,687.0,4663.299999952316
+41,Gemma-SEA-LION v4 4B,structured-output,false,0,0,0,15,true,,4663.299999952316
+41,Gemma-SEA-LION v4 4B,zero-shot,false,11,11,0,15,true,6875.0,4663.299999952316
+41,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,15,true,,4663.299999952316
+41,Llama 3.2 3B Instruct,few-shot,false,11,10,1,15,true,434.0,4663.299999952316
+41,Llama 3.2 3B Instruct,structured-output,false,0,0,0,15,true,,4663.299999952316
+41,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,15,true,,4663.299999952316
+41,MedGemma 4B,chain-of-thought,false,11,10,1,15,true,450.0,4663.299999952316
+41,MedGemma 4B,few-shot,false,10,8,2,15,true,2457.0,4663.299999952316
+41,MedGemma 4B,structured-output,false,10,7,3,15,true,4500.0,4663.299999952316
+41,MedGemma 4B,zero-shot,false,10,7,3,15,true,5600.0,4663.299999952316
+41,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,4663.299999952316
+41,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,15,true,,4663.299999952316
+41,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,15,true,0.0,4663.299999952316
+41,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,15,true,0.0,4663.299999952316
+41,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,4663.299999952316
+41,Qwen 2.5 3B Instruct,few-shot,false,9,6,3,15,true,3456.0,4663.299999952316
+41,Qwen 2.5 3B Instruct,structured-output,false,0,0,0,15,true,,4663.299999952316
+41,Qwen 2.5 3B Instruct,zero-shot,false,9,6,3,15,true,923.4,4663.299999952316
+42,Gemma-SEA-LION v4 4B,chain-of-thought,false,12,12,0,14,true,786.0,50556.80001091957
+42,Gemma-SEA-LION v4 4B,few-shot,false,12,12,0,14,true,4380.0,50556.80001091957
+42,Gemma-SEA-LION v4 4B,structured-output,false,12,12,0,14,true,7486.0,50556.80001091957
+42,Gemma-SEA-LION v4 4B,zero-shot,false,12,12,0,14,true,786.0,50556.80001091957
+42,Llama 3.2 3B Instruct,chain-of-thought,false,6,6,0,14,true,,50556.80001091957
+42,Llama 3.2 3B Instruct,few-shot,false,10,10,0,14,true,542.0,50556.80001091957
+42,Llama 3.2 3B Instruct,structured-output,false,12,12,0,14,true,1349.2,50556.80001091957
+42,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,14,true,,50556.80001091957
+42,MedGemma 4B,chain-of-thought,false,12,12,0,14,true,350.0,50556.80001091957
+42,MedGemma 4B,few-shot,false,12,12,0,14,true,450.0,50556.80001091957
+42,MedGemma 4B,structured-output,false,12,12,0,14,true,785.0,50556.80001091957
+42,MedGemma 4B,zero-shot,false,12,12,0,14,true,350.0,50556.80001091957
+42,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,14,true,0.0,50556.80001091957
+42,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,14,true,,50556.80001091957
+42,Phi-4-mini 3.8B Instruct,structured-output,false,0,0,0,14,true,,50556.80001091957
+42,Phi-4-mini 3.8B Instruct,zero-shot,false,0,0,0,14,true,,50556.80001091957
+42,Qwen 2.5 3B Instruct,chain-of-thought,false,9,8,1,14,true,329.5,50556.80001091957
+42,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,14,true,,50556.80001091957
+42,Qwen 2.5 3B Instruct,structured-output,false,0,0,0,14,true,,50556.80001091957
+42,Qwen 2.5 3B Instruct,zero-shot,false,10,10,0,14,true,368.5,50556.80001091957
+43,Gemma-SEA-LION v4 4B,chain-of-thought,false,11,8,3,15,true,1357.8,3300.5
+43,Gemma-SEA-LION v4 4B,few-shot,false,8,6,2,15,true,935.0,3300.5
+43,Gemma-SEA-LION v4 4B,structured-output,false,11,9,2,15,true,730.0,3300.5
+43,Gemma-SEA-LION v4 4B,zero-shot,false,10,7,3,15,true,735.0,3300.5
+43,Llama 3.2 3B Instruct,chain-of-thought,false,11,0,11,15,true,,3300.5
+43,Llama 3.2 3B Instruct,few-shot,false,13,6,7,15,true,391.0,3300.5
+43,Llama 3.2 3B Instruct,structured-output,false,0,0,0,15,true,,3300.5
+43,Llama 3.2 3B Instruct,zero-shot,false,8,5,3,15,true,0.0,3300.5
+43,MedGemma 4B,chain-of-thought,false,12,9,3,15,true,1470.0,3300.5
+43,MedGemma 4B,few-shot,false,10,8,2,15,true,3670.0,3300.5
+43,MedGemma 4B,structured-output,false,14,11,3,15,true,150.0,3300.5
+43,MedGemma 4B,zero-shot,false,14,11,3,15,true,1670.0,3300.5
+43,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,3300.5
+43,Phi-4-mini 3.8B Instruct,few-shot,false,11,8,3,15,true,640.0,3300.5
+43,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,15,true,0.0,3300.5
+43,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,15,true,0.0,3300.5
+43,Qwen 2.5 3B Instruct,chain-of-thought,false,21,0,21,15,true,,3300.5
+43,Qwen 2.5 3B Instruct,few-shot,false,6,4,2,15,true,249.0,3300.5
+43,Qwen 2.5 3B Instruct,structured-output,false,7,0,7,15,true,256.8,3300.5
+43,Qwen 2.5 3B Instruct,zero-shot,false,0,0,0,15,true,,3300.5
+44,Gemma-SEA-LION v4 4B,chain-of-thought,false,15,14,1,32,true,,4290.800005435944
+44,Gemma-SEA-LION v4 4B,few-shot,false,15,15,0,32,true,,4290.800005435944
+44,Gemma-SEA-LION v4 4B,structured-output,false,11,11,0,32,true,1879.0,4290.800005435944
+44,Gemma-SEA-LION v4 4B,zero-shot,false,15,13,2,32,true,,4290.800005435944
+44,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,32,true,,4290.800005435944
+44,Llama 3.2 3B Instruct,few-shot,false,18,18,0,32,true,,4290.800005435944
+44,Llama 3.2 3B Instruct,structured-output,false,9,8,1,32,true,1596.4,4290.800005435944
+44,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,32,true,,4290.800005435944
+44,MedGemma 4B,chain-of-thought,false,5,4,1,32,true,,4290.800005435944
+44,MedGemma 4B,few-shot,false,15,13,2,32,true,,4290.800005435944
+44,MedGemma 4B,structured-output,false,16,10,6,32,true,,4290.800005435944
+44,MedGemma 4B,zero-shot,false,17,15,2,32,true,,4290.800005435944
+44,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,32,true,0.0,4290.800005435944
+44,Phi-4-mini 3.8B Instruct,few-shot,false,13,11,2,32,true,1568.0,4290.800005435944
+44,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,32,true,0.0,4290.800005435944
+44,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,32,true,0.0,4290.800005435944
+44,Qwen 2.5 3B Instruct,chain-of-thought,false,11,10,1,32,true,923.4,4290.800005435944
+44,Qwen 2.5 3B Instruct,few-shot,false,13,13,0,32,true,726.0,4290.800005435944
+44,Qwen 2.5 3B Instruct,structured-output,false,6,0,6,32,true,432.5,4290.800005435944
+44,Qwen 2.5 3B Instruct,zero-shot,false,10,0,10,32,true,428.5,4290.800005435944
+45,Gemma-SEA-LION v4 4B,chain-of-thought,false,5,3,2,7,true,686.0,562.7000122070312
+45,Gemma-SEA-LION v4 4B,few-shot,false,3,3,0,7,true,741.0,562.7000122070312
+45,Gemma-SEA-LION v4 4B,structured-output,false,3,3,0,7,true,420.0,562.7000122070312
+45,Gemma-SEA-LION v4 4B,zero-shot,false,3,3,0,7,true,567.0,562.7000122070312
+45,Llama 3.2 3B Instruct,chain-of-thought,false,7,1,6,7,true,605.0,562.7000122070312
+45,Llama 3.2 3B Instruct,few-shot,false,7,4,3,7,true,341.0,562.7000122070312
+45,Llama 3.2 3B Instruct,structured-output,false,7,4,3,7,true,1021.8,562.7000122070312
+45,Llama 3.2 3B Instruct,zero-shot,false,6,3,3,7,true,0.0,562.7000122070312
+45,MedGemma 4B,chain-of-thought,false,6,4,2,7,true,1255.0,562.7000122070312
+45,MedGemma 4B,few-shot,false,7,4,3,7,true,350.0,562.7000122070312
+45,MedGemma 4B,structured-output,false,6,4,2,7,true,1470.0,562.7000122070312
+45,MedGemma 4B,zero-shot,false,5,3,2,7,true,1255.0,562.7000122070312
+45,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,7,true,0.0,562.7000122070312
+45,Phi-4-mini 3.8B Instruct,few-shot,false,8,4,4,7,true,966.5,562.7000122070312
+45,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,7,true,0.0,562.7000122070312
+45,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,7,true,0.0,562.7000122070312
+45,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,7,true,0.0,562.7000122070312
+45,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,7,true,,562.7000122070312
+45,Qwen 2.5 3B Instruct,structured-output,false,2,2,0,7,true,242.1,562.7000122070312
+45,Qwen 2.5 3B Instruct,zero-shot,false,1,0,1,7,true,0.0,562.7000122070312
+46,Gemma-SEA-LION v4 4B,chain-of-thought,false,0,0,0,18,true,,6272.900017738342
+46,Gemma-SEA-LION v4 4B,few-shot,false,0,0,0,18,true,,6272.900017738342
+46,Gemma-SEA-LION v4 4B,structured-output,false,0,0,0,18,true,,6272.900017738342
+46,Gemma-SEA-LION v4 4B,zero-shot,false,0,0,0,18,true,,6272.900017738342
+46,Llama 3.2 3B Instruct,chain-of-thought,false,6,6,0,18,true,,6272.900017738342
+46,Llama 3.2 3B Instruct,few-shot,false,8,7,1,18,true,542.0,6272.900017738342
+46,Llama 3.2 3B Instruct,structured-output,false,7,6,1,18,true,1232.4,6272.900017738342
+46,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,18,true,,6272.900017738342
+46,MedGemma 4B,chain-of-thought,false,15,12,3,18,true,,6272.900017738342
+46,MedGemma 4B,few-shot,false,15,12,3,18,true,,6272.900017738342
+46,MedGemma 4B,structured-output,false,16,14,2,18,true,,6272.900017738342
+46,MedGemma 4B,zero-shot,false,17,14,3,18,true,,6272.900017738342
+46,Phi-4-mini 3.8B Instruct,chain-of-thought,false,7,6,1,18,true,1801.8,6272.900017738342
+46,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,18,true,,6272.900017738342
+46,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,18,true,0.0,6272.900017738342
+46,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,18,true,0.0,6272.900017738342
+46,Qwen 2.5 3B Instruct,chain-of-thought,false,10,0,10,18,true,2597.6,6272.900017738342
+46,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,18,true,,6272.900017738342
+46,Qwen 2.5 3B Instruct,structured-output,false,9,0,9,18,true,793.2,6272.900017738342
+46,Qwen 2.5 3B Instruct,zero-shot,false,10,0,10,18,true,679.5,6272.900017738342
+47,Gemma-SEA-LION v4 4B,chain-of-thought,false,7,6,1,12,true,982.4,669.2000045776367
+47,Gemma-SEA-LION v4 4B,few-shot,false,7,6,1,12,true,1675.0,669.2000045776367
+47,Gemma-SEA-LION v4 4B,structured-output,false,3,2,1,12,true,347.0,669.2000045776367
+47,Gemma-SEA-LION v4 4B,zero-shot,false,7,6,1,12,true,647.0,669.2000045776367
+47,Llama 3.2 3B Instruct,chain-of-thought,false,5,0,5,12,true,1120.0,669.2000045776367
+47,Llama 3.2 3B Instruct,few-shot,false,6,5,1,12,true,234.0,669.2000045776367
+47,Llama 3.2 3B Instruct,structured-output,false,4,3,1,12,true,270.6,669.2000045776367
+47,Llama 3.2 3B Instruct,zero-shot,false,6,2,4,12,true,250.8,669.2000045776367
+47,MedGemma 4B,chain-of-thought,false,8,7,1,12,true,2500.0,669.2000045776367
+47,MedGemma 4B,few-shot,false,7,5,2,12,true,248.0,669.2000045776367
+47,MedGemma 4B,structured-output,false,3,2,1,12,true,490.0,669.2000045776367
+47,MedGemma 4B,zero-shot,false,7,6,1,12,true,1680.0,669.2000045776367
+47,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,12,true,0.0,669.2000045776367
+47,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,12,false,,669.2000045776367
+47,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,12,true,0.0,669.2000045776367
+47,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,12,true,0.0,669.2000045776367
+47,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,12,true,0.0,669.2000045776367
+47,Qwen 2.5 3B Instruct,few-shot,false,7,5,2,12,true,459.0,669.2000045776367
+47,Qwen 2.5 3B Instruct,structured-output,false,7,5,2,12,true,654.4,669.2000045776367
+47,Qwen 2.5 3B Instruct,zero-shot,false,4,2,2,12,true,1084.0,669.2000045776367
+48,Gemma-SEA-LION v4 4B,chain-of-thought,false,9,7,2,21,true,843.5,950.00000166893
+48,Gemma-SEA-LION v4 4B,few-shot,false,13,10,3,21,true,1438.0,950.00000166893
+48,Gemma-SEA-LION v4 4B,structured-output,false,7,4,3,21,true,630.0,950.00000166893
+48,Gemma-SEA-LION v4 4B,zero-shot,false,9,7,2,21,true,695.0,950.00000166893
+48,Llama 3.2 3B Instruct,chain-of-thought,false,0,0,0,21,true,,950.00000166893
+48,Llama 3.2 3B Instruct,few-shot,false,11,9,2,21,true,341.0,950.00000166893
+48,Llama 3.2 3B Instruct,structured-output,false,10,8,2,21,true,542.2,950.00000166893
+48,Llama 3.2 3B Instruct,zero-shot,false,10,7,3,21,true,550.0,950.00000166893
+48,MedGemma 4B,chain-of-thought,false,16,11,5,21,true,,950.00000166893
+48,MedGemma 4B,few-shot,false,15,11,4,21,true,,950.00000166893
+48,MedGemma 4B,structured-output,false,17,13,4,21,true,,950.00000166893
+48,MedGemma 4B,zero-shot,false,17,13,4,21,true,,950.00000166893
+48,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,21,true,0.0,950.00000166893
+48,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,21,true,,950.00000166893
+48,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,21,true,0.0,950.00000166893
+48,Phi-4-mini 3.8B Instruct,zero-shot,false,9,7,2,21,true,282.0,950.00000166893
+48,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,21,true,0.0,950.00000166893
+48,Qwen 2.5 3B Instruct,few-shot,false,0,0,0,21,true,,950.00000166893
+48,Qwen 2.5 3B Instruct,structured-output,false,10,6,4,21,true,619.4,950.00000166893
+48,Qwen 2.5 3B Instruct,zero-shot,false,15,11,4,21,true,748.5,950.00000166893
+49,Gemma-SEA-LION v4 4B,chain-of-thought,false,0,0,0,18,true,,932.0999994277954
+49,Gemma-SEA-LION v4 4B,few-shot,false,11,10,1,18,true,675.0,932.0999994277954
+49,Gemma-SEA-LION v4 4B,structured-output,false,0,0,0,18,true,,932.0999994277954
+49,Gemma-SEA-LION v4 4B,zero-shot,false,0,0,0,18,true,,932.0999994277954
+49,Llama 3.2 3B Instruct,chain-of-thought,false,3,2,1,18,true,,932.0999994277954
+49,Llama 3.2 3B Instruct,few-shot,false,10,9,1,18,true,542.0,932.0999994277954
+49,Llama 3.2 3B Instruct,structured-output,false,10,9,1,18,true,840.8,932.0999994277954
+49,Llama 3.2 3B Instruct,zero-shot,false,18,1,17,18,true,,932.0999994277954
+49,MedGemma 4B,chain-of-thought,false,14,14,0,18,true,620.0,932.0999994277954
+49,MedGemma 4B,few-shot,false,13,13,0,18,true,745.0,932.0999994277954
+49,MedGemma 4B,structured-output,false,16,15,1,18,true,,932.0999994277954
+49,MedGemma 4B,zero-shot,false,13,13,0,18,true,620.0,932.0999994277954
+49,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,18,true,0.0,932.0999994277954
+49,Phi-4-mini 3.8B Instruct,few-shot,false,19,5,14,18,true,,932.0999994277954
+49,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,18,true,0.0,932.0999994277954
+49,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,18,true,0.0,932.0999994277954
+49,Qwen 2.5 3B Instruct,chain-of-thought,false,1,0,1,18,true,0.0,932.0999994277954
+49,Qwen 2.5 3B Instruct,few-shot,false,8,8,0,18,true,152.0,932.0999994277954
+49,Qwen 2.5 3B Instruct,structured-output,false,7,7,0,18,true,1298.6,932.0999994277954
+49,Qwen 2.5 3B Instruct,zero-shot,false,1,0,1,18,true,0.0,932.0999994277954
+50,Gemma-SEA-LION v4 4B,chain-of-thought,false,6,4,2,15,true,537.8,1531.1000008583069
+50,Gemma-SEA-LION v4 4B,few-shot,false,6,4,2,15,true,937.0,1531.1000008583069
+50,Gemma-SEA-LION v4 4B,structured-output,false,6,5,1,15,true,1385.0,1531.1000008583069
+50,Gemma-SEA-LION v4 4B,zero-shot,false,7,5,2,15,true,1765.0,1531.1000008583069
+50,Llama 3.2 3B Instruct,chain-of-thought,false,6,0,6,15,true,65525.0,1531.1000008583069
+50,Llama 3.2 3B Instruct,few-shot,false,6,3,3,15,true,234.0,1531.1000008583069
+50,Llama 3.2 3B Instruct,structured-output,false,18,0,18,15,true,,1531.1000008583069
+50,Llama 3.2 3B Instruct,zero-shot,false,0,0,0,15,true,,1531.1000008583069
+50,MedGemma 4B,chain-of-thought,false,8,7,1,15,true,860.0,1531.1000008583069
+50,MedGemma 4B,few-shot,false,3,2,1,15,true,840.0,1531.1000008583069
+50,MedGemma 4B,structured-output,false,5,2,3,15,true,430.0,1531.1000008583069
+50,MedGemma 4B,zero-shot,false,10,7,3,15,true,850.0,1531.1000008583069
+50,Phi-4-mini 3.8B Instruct,chain-of-thought,false,1,0,1,15,true,0.0,1531.1000008583069
+50,Phi-4-mini 3.8B Instruct,few-shot,false,0,0,0,15,false,,1531.1000008583069
+50,Phi-4-mini 3.8B Instruct,structured-output,false,1,0,1,15,true,0.0,1531.1000008583069
+50,Phi-4-mini 3.8B Instruct,zero-shot,false,1,0,1,15,true,0.0,1531.1000008583069
+50,Qwen 2.5 3B Instruct,chain-of-thought,false,0,0,0,15,true,,1531.1000008583069
+50,Qwen 2.5 3B Instruct,few-shot,false,6,5,1,15,true,183.0,1531.1000008583069
+50,Qwen 2.5 3B Instruct,structured-output,false,2,0,2,15,true,69.2,1531.1000008583069
+50,Qwen 2.5 3B Instruct,zero-shot,false,5,2,3,15,true,185.0,1531.1000008583069
